@@ -1,7 +1,7 @@
 ---
 name: Features
 about: This is our features template
-title: 'FEATURES: <TITLE>'
+title: 'FEATURE: <TITLE>'
 labels: ''
 assignees: ''
 
